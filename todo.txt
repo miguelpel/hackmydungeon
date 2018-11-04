@@ -1,0 +1,7 @@
+Put the map into its own file, and load it dynamically. DONE
+
+create player. Spawn player into map
+
+add the javascript 'reader'. make tests.
+
+migrate the backup system
