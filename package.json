@@ -1,15 +1,15 @@
 {
-  "name": "webpack-boilerplate",
+  "name": "hackmydungeon",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:marharyta/webpack-boilerplate.git",
-  "author": "Margarita Obraztsova <marharyta.obraztsova@gmail.com>",
+  "repository": "https://github.com/miguelpel/hackmydungeon.git",
+  "author": "Miguel Pelleterat <pelleteratdeborde@yahoo.fr>",
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production"
   },
-  "dependencies": {
+  "devDependencies": {
     "autoprefixer": "^8.6.3",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
